@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">External Storage - danielme.com</string>
+    <string name="externalStorageState">External storage state</string>
+    <string name="externalStorageDirectory">External storage directory</string>
+    <string name="freeSpace">Free space (Mb)</string>
+    <string name="totalSpace">Total space (Mb)</string>
+    <string name="isExternalStorageRemovable">is external storage removable?</string>
+    <string name="gingerbread">Only available since Gingerbread</string>
+    <string name="externalAppDir">External app directory</string>
+
+</resources>

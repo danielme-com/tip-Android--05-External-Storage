@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Almacenamiento externo - danielme.com</string>
+    <string name="externalStorageState">Estado del almacenamiento externo</string>
+    <string name="externalStorageDirectory">Directorio del almacenamiento externo</string>
+    <string name="freeSpace">Espacio libre (Mb)</string>
+    <string name="totalSpace">Espacio total (Mb)</string>
+    <string name="gingerbread">Sólo disponible desde Gingerbread</string>
+    <string name="externalAppDir">Directorio externo de la app</string>
+    <string name="isExternalStorageRemovable">¿Es extraíble?</string>
+
+</resources>
